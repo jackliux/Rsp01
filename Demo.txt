@@ -1,5 +1,4 @@
 xxx
 ooxx
 xxoo
-ddd
-aaa
+sss
